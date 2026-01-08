@@ -63,26 +63,8 @@
 
 ---
 
-## 📈 Mon Activité GitHub
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nexos20lv&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="Statistiques GitHub" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=nexos20lv&theme=dark&hide_border=true" alt="Série de contributions" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexos20lv&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Langages les plus utilisés" />
-</div>
-
-<br>
-
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Citation de développeur" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=nexos20lv&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Dépôts Contribués" />
-</div>
-
----
-
 <p align="center">
-    <a href="https://nexos20lv.github.io/Portfolio/">
+    <a href="https://nexos20lv.github.io/">
         <img src="https://img.shields.io/badge/Découvrez_mon_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
     </a>
 </p>
