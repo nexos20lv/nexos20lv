@@ -48,19 +48,6 @@ const nexos20lv = {
 
 ---
 
-<!-- CURRENT PROJECTS -->
-
-### `// building_now`
-
-| Projet | Catégorie | Stack | Statut |
-| :--- | :--- | :--- | :---: |
-| **[Nexaria](https://nexaria.netlib.re)** | Minecraft Ecosystem | `Paper API` `Azuriom` | 🟢 En prod |
-| **Home Assistant Desktop** | App Desktop | `Electron` `JS` | 🔨 En dev |
-| **Nexaria Launcher** | App Desktop | `Electron` `JS` | 🔨 En dev |
-| **[AzureLab Dashboard](https://github.com/nexos20lv/AzureLab-Dashboard)** | Supervision VPS | `PHP` `MySQL` | 🟡 En test |
-
----
-
 <!-- TECH STACK -->
 
 ### `// tech_stack`
@@ -87,14 +74,6 @@ const nexos20lv = {
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexos20lv&bg_color=0d1117&color=7C3AED&line=7C3AED&point=c9d1d9&area=true&area_color=7C3AED&hide_border=true" alt="Activity Graph" />
-
----
-
-<!-- TROPHIES -->
-
-### `// trophies`
-
-<img src="https://github-profile-trophy.vercel.app/?username=nexos20lv&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12" alt="Trophies" />
 
 ---
 
