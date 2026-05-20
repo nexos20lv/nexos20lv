@@ -64,15 +64,6 @@ const nexos20lv = {
 
 ### `// stats`
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=nexos20lv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=7C3AED&title_color=7C3AED&text_color=c9d1d9&ring_color=7C3AED" alt="GitHub Stats" />
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=nexos20lv&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=ff6600&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=555555" alt="GitHub Streak" />
-
-<br/>
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexos20lv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" alt="Top Languages" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexos20lv&bg_color=0d1117&color=7C3AED&line=7C3AED&point=c9d1d9&area=true&area_color=7C3AED&hide_border=true" alt="Activity Graph" />
 
 ---
