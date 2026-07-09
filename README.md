@@ -1,75 +1,63 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Salut,%20je%20suis%20Pierre%20!&fontSize=70&fontAlignY=35&animation=twinkling&desc=Développeur%20Fullstack%20&%20Créateur&descAlignY=55&descAlign=50" alt="Header" />
+</div>
 
-<!-- HEADER — animated typing SVG -->
-<a href="https://github.com/nexos20lv">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=820&height=130&lines=%3E+Pierre+Bouteman+%2F+nexos20lv;%3E+Full-Stack+Developer+%26+STI2D+Student;%3E+Architecture.+Performance.+Craft." alt="nexos20lv" />
-</a>
+<h3 align="center">🚀 Développeur Passionné | Systèmes Embarqués | Architecture Logicielle</h3>
 
-<br/>
-
-> *"Architecture robuste · Interfaces immersives · Ingénierie avant tout."*
-
-<br/>
-
-<!-- SOCIALS -->
-<a href="mailto:pierre.bouteman@icloud.com">
-  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://discord.gg/g3A9pVDTUJ">
-  <img src="https://img.shields.io/badge/Discord-7C3AED?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-&nbsp;
-<a href="https://youtube.com/@nexos20">
-  <img src="https://img.shields.io/badge/YouTube-7C3AED?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-&nbsp;
-<a href="https://nexos20lv.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-</a>
-
----
-
-<!-- ABOUT -->
-
-### `// about`
-
-```js
-const nexos20lv = {
-  name:     "Pierre Bouteman",
-  role:     "Développeur Full-Stack · Première STI2D @ Lycée Paul Duez (Cambrai)",
-  projects: ["Nexaria — écosystème Minecraft complet", "Home Assistant Desktop — app Electron"],
-  learning: ["Ingénierie logicielle", "Architecture d'applications", "Systèmes embarqués"],
-  goal:     "Intégrer une école d'ingénieur en informatique",
-  approach: "Architecture · Qualité de code · Performance · Maintenabilité",
-  ai:       "Utilisé en accélérateur ciblé, jamais en remplacement de l'analyse technique",
-};
-```
-
----
-
-<!-- TECH STACK -->
-
-### `// tech_stack`
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,php,python,electron,react,vite,sass,cs&theme=dark" alt="Languages & Frameworks" />
+<p align="center">
+  Je suis un développeur créatif basé à Cambrai, passionné par la conception de systèmes complexes, l'automatisation, et la création de jeux et d'applications modernes. Toujours en quête de nouveaux défis techniques !
+</p>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,nginx,supabase,git,github,arduino,godot,wordpress,cloudflare,figma,raspberrypi,fastapi,vercel&theme=dark" alt="Tools & Infrastructure" />
+## 🛠️ Mes Compétences et Outils
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,python,cpp,godot,react,nodejs,electron,mysql,linux,docker,azure,git,github,vscode&perline=10" alt="Skills" />
+</div>
 
-<!-- GITHUB STATS -->
+<br/>
 
-### `// stats`
+## 📈 Statistiques GitHub
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nexos20lv&bg_color=0d1117&color=7C3AED&line=7C3AED&point=c9d1d9&area=true&area_color=7C3AED&hide_border=true" alt="Activity Graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nexos20lv&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexos20lv&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
 
----
+<br/>
 
-<!-- FOOTER -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexos20lv&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=nexos20lv&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+<br/>
 
+## 🌟 Mes Projets Phares
+
+| 🚀 Projet | 📝 Description | 🔧 Technologies |
+| --- | --- | --- |
+| [**Home Assistant Desktop**](https://github.com/nexos20lv/Home-Assistant-Desktop) | Application de bureau pour contrôler votre domotique directement depuis votre PC. | `JavaScript`, `Electron` |
+| [**La Guerre Des Capsules**](https://github.com/nexos20lv/La-Guerre-Des-Capsules) | Un jeu passionnant développé avec Godot Engine. Plongez dans la bataille ! | `GDScript`, `Godot` |
+| [**NexShare**](https://github.com/nexos20lv/NexShare) | Web app de transfert de fichiers P2P ultra-rapide via WebRTC. | `JavaScript`, `WebRTC` |
+| [**AzureLab Dashboard**](https://github.com/nexos20lv/AzureLab-Dashboard) | Tableau de bord interactif pour gérer vos ressources Azure Lab. | `PHP` |
+
+<br/>
+
+## 📫 Me Contacter
+
+<div align="center">
+  <a href="https://discord.gg/g3A9pVDTUJ">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://youtube.com/@nexos20">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:pierre.bouteman@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
