@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=8a2be2&height=250&section=header&text=Salut,%20je%20suis%20Pierre%20!&fontSize=70&fontAlignY=35&animation=twinkling&desc=Développeur%20Fullstack%20&%20Créateur&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=250&section=header&text=Salut,%20je%20suis%20Pierre%20!&fontSize=70&fontAlignY=35&animation=twinkling&desc=Développeur%20Fullstack%20&%20Créateur&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <h3 align="center">🚀 Développeur Passionné | Systèmes Embarqués | Architecture Logicielle</h3>
@@ -21,7 +21,7 @@
 ## 📈 Statistiques GitHub
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/nexos20lv?config_timezone=Europe%2FParis" alt="Metrics" width="80%" />
+  <img src="https://metrics.lecoq.io/nexos20lv?config_timezone=Europe%2FParis&config_theme=synthwave" alt="Metrics" width="80%" />
 </div>
 
 <br/>
@@ -52,5 +52,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=8a2be2&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=100&section=footer" alt="Footer" />
 </div>
