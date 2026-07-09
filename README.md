@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Salut,%20je%20suis%20Pierre%20!&fontSize=70&fontAlignY=35&animation=twinkling&desc=Développeur%20Fullstack%20&%20Créateur&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=8a2be2&height=250&section=header&text=Salut,%20je%20suis%20Pierre%20!&fontSize=70&fontAlignY=35&animation=twinkling&desc=Développeur%20Fullstack%20&%20Créateur&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <h3 align="center">🚀 Développeur Passionné | Systèmes Embarqués | Architecture Logicielle</h3>
@@ -21,14 +21,7 @@
 ## 📈 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexos20lv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9370DB&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexos20lv&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakNum=ffffff&currStreakLabel=8A2BE2&sideNums=ffffff&sideLabels=ffffff&dates=c9d1d9" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexos20lv&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" alt="Top Languages" width="50%" />
+  <img src="https://metrics.lecoq.io/nexos20lv?config_timezone=Europe%2FParis" alt="Metrics" width="80%" />
 </div>
 
 <br/>
@@ -59,5 +52,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=8a2be2&height=100&section=footer" alt="Footer" />
 </div>
