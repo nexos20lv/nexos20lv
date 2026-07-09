@@ -21,7 +21,14 @@
 ## 📈 Statistiques GitHub
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/nexos20lv?config_timezone=Europe%2FParis&config_theme=synthwave" alt="Metrics" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nexos20lv&theme=synthwave" alt="Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nexos20lv&theme=synthwave" alt="Stats" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nexos20lv&theme=synthwave" alt="Languages" width="50%" />
 </div>
 
 <br/>
