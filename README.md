@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=250&section=header&text=Pierre%20%7C%20NeXoS_20&fontSize=65&fontAlignY=38&animation=twinkling&desc=D%C3%A9veloppeur%20Fullstack%20%26%20Syst%C3%A8mes&descAlignY=58&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=250&section=header&text=Pierre%20%7C%20NeXoS_20&fontSize=65&fontAlignY=38&animation=twinkling&desc=D%C3%A9veloppeur%20Fullstack%20%26%20Syst%C3%A8mes&descAlignY=58&descAlign=50&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <h1 align="center">👋 Salut, moi c'est Pierre !</h1>
