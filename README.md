@@ -1,5 +1,5 @@
 <div align="center">
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=220&section=header&text=Pierre%20(NeXoS_20&fontColor=ffffff)&fontSize=64&fontAlignY=38&animation=twinkling&desc=Fullstack%20%7C%20Systems%20%7C%20Game%20%26%20Cloud%20Developer&descAlignY=58&descAlign=50)
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=220&section=header&text=Pierre%20(NeXoS_20)&fontSize=64&fontAlignY=38&animation=twinkling&desc=Fullstack%20%7C%20Systems%20%7C%20Game%20%26%20Cloud%20Developer&descAlignY=58&descAlign=50)
 
   <h1>👋 Salut, moi c'est Pierre !</h1>
 
@@ -134,5 +134,5 @@
 <br/>
 
 <div align="center">
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=100&section=footer&fontColor=ffffff)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=100&section=footer)
 </div>
