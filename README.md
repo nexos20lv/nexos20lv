@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=220&section=header&text=Pierre%20(NeXoS_20)&fontSize=64&fontAlignY=38&animation=twinkling&desc=Fullstack%20%7C%20Systems%20%7C%20Game%20%26%20Cloud%20Developer&descAlignY=58&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7b2cbf,100:c77dff&amp;height=220&amp;section=header&amp;text=Pierre%20(NeXoS_20)&amp;fontSize=64&amp;fontAlignY=38&amp;animation=twinkling&amp;desc=Fullstack%20%7C%20Systems%20%7C%20Game%20%26%20Cloud%20Developer&amp;descAlignY=58&amp;descAlign=50" alt="Header Banner" />
 
   <h1>👋 Salut, moi c'est Pierre !</h1>
 
   <p align="center">
-    <a href="https://btmpierre.me/"><img src="https://img.shields.io/badge/Website-btmpierre.me-7b2cbf?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
+    <a href="https://btmpierre.me/"><img src="https://img.shields.io/badge/Website-btmpierre.me-7b2cbf?style=for-the-badge&amp;logo=firefox&amp;logoColor=white" alt="Website"></a>
     <img src="https://img.shields.io/badge/Location-Cambrai%2C%20France%20%F0%9F%87%AB%F0%9F%87%B7-007AFF?style=for-the-badge" alt="Location">
-    <a href="https://discord.gg/g3A9pVDTUJ"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="https://discord.gg/g3A9pVDTUJ"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
   </p>
 
   <p align="center">
@@ -31,17 +31,17 @@
 
 <div align="center">
   <p><b>Langages & Technologies Web</b></p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python,cpp,cs,swift&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python,cpp,cs,swift&amp;perline=10" alt="Languages" />
   
   <br/><br/>
   
   <p><b>Frameworks, Moteurs & Runtimes</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,electron,godot,mysql,sqlite&perline=10" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,electron,godot,mysql,sqlite&amp;perline=10" alt="Frameworks" />
 
   <br/><br/>
 
   <p><b>DevOps, Cloud & Environnement</b></p>
-  <img src="https://skillicons.dev/icons?i=docker,azure,linux,git,github,vscode,apple,windows&perline=10" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,linux,git,github,vscode,apple,windows&amp;perline=10" alt="DevOps" />
 </div>
 
 <br/>
@@ -96,15 +96,15 @@
 ## 📈 Statistiques & Activité GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nexos20lv&theme=synthwave" alt="Profile Details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nexos20lv&theme=synthwave" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nexos20lv&amp;theme=synthwave" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nexos20lv&amp;theme=synthwave" alt="Stats" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nexos20lv&theme=synthwave" alt="Languages" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nexos20lv&theme=synthwave" alt="Commit Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nexos20lv&amp;theme=synthwave" alt="Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nexos20lv&amp;theme=synthwave" alt="Commit Languages" width="49%" />
 </div>
 
 <br/>
@@ -115,24 +115,24 @@
 
 <div align="center">
   <a href="https://btmpierre.me/">
-    <img src="https://img.shields.io/badge/Site_Web-btmpierre.me-7b2cbf?style=for-the-badge&logo=firefox&logoColor=white" alt="Site Web" />
+    <img src="https://img.shields.io/badge/Site_Web-btmpierre.me-7b2cbf?style=for-the-badge&amp;logo=firefox&amp;logoColor=white" alt="Site Web" />
   </a>
   <a href="https://discord.gg/g3A9pVDTUJ">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
   </a>
   <a href="https://youtube.com/@nexos20">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:pierre.bouteman@icloud.com">
-    <img src="https://img.shields.io/badge/Email-pierre.bouteman@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-pierre.bouteman@icloud.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
   <a href="https://buymeacoffee.com/nexos20">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Soutenir" />
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Donate-FFDD00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black" alt="Soutenir" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7b2cbf,100:c77dff&amp;height=100&amp;section=footer" alt="Footer" />
 </div>
